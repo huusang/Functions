@@ -1,5 +1,17 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Functions",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Defining functions",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Function declarations",
+          "id": 3
+        }
+      }
+    }
+  }
 }
